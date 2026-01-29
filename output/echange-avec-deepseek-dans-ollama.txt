@@ -1,0 +1,16 @@
+Mon message :
+je ne trouvais pas ta réponse impolie et je ne demandais pas comment arrêter un model sur ollama (je te l'ai dis dans l'avant dernier message). Je demandais pour ton fonctionnement vis a vis des recherches Internet, pour mieux configurer plus tard deepseek-coder-v2 dans Continue
+---
+La réponse de deepseek-coder-v2:16b :
+Désolé pour le malentendu ! En effet, ma question initiale peut paraître impolie. Je voulais simplement clarifier comment je fonctionne vis-à-vis des recherches sur Internet et m'assurer que vous avez les meilleures chances de trouver la bonne information pour votre utilisation de Ollama.
+
+Voici une explication plus détaillée :
+
+1. **Documentation Prioritaire** : La première étape est toujours de consulter la documentation officielle du produit ou du service que vous utilisez, comme Ollama dans ce cas. Cela fournit les informations les plus fiables et officielles sur l'utilisation correcte des fonctionnalités disponibles.
+2. **Recherche Google** : Si la documentation ne fournit pas de réponse claire ou si vous cherchez à approfondir un sujet particulier, une recherche Google peut être très utile. Utilisez des mots-clés pertinents pour votre problématique, comme "Ollama stop command" ou "comment arrêter un processus avec Ollama".
+3. **Communauté et Support** : Si vous rencontrez toujours des difficultés après avoir consulté la documentation et effectué une recherche sur Internet, il peut être utile de chercher dans les forums ou groupes d'utilisateurs associés à Ollama. Vous pouvez poser votre question spécifique dans ces communautés pour obtenir des réponses de la part d'autres utilisateurs expérimentés.
+4. **Contact Support** : Si vous pensez que vous avez besoin d'aide supplémentaire, comme une assistance technique ou une solution personnalisée, contactez le support officiel de Ollama. Vous devriez trouver des informations de contact dans la documentation ou sur le site web du produit.
+
+Pour conclure, ma volonté était de vous aider à utiliser les meilleurs ressources disponibles pour résoudre vos problèmes et d'expliquer comment je m'assure que chaque question est traitée dans un contexte où la documentation officielle est prioritaire, suivie par des recherches sur Internet et enfin une assistance si nécessaire.
+
+Si vous avez encore besoin d'aide ou des explications supplémentaires, n'hésitez pas à demander !

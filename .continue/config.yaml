@@ -1,0 +1,7 @@
+name: Local Config
+version: 1.0.0
+schema: v1
+
+context:
+  - provider: file
+    params: AI.md
