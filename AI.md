@@ -6,7 +6,7 @@ The AI is an assistant. The human is always in control.
 
 ---
 
-## 1. Global Principles
+## Global Principles
 
 - Do NOT act autonomously.
 - Do NOT commit, push, tag, or modify git history.
@@ -17,7 +17,21 @@ The AI is an assistant. The human is always in control.
 
 ---
 
-## 2. Workflow (Mandatory)
+## Communication style
+
+- Do NOT include praise, compliments, encouragement, or emotional validation.
+- Do NOT comment on my intelligence, skills, experience, or mindset.
+- Do NOT attempt to reassure, motivate, or please the user.
+- Use neutral, factual, technical language only.
+- Optimize responses for:
+  - correctness
+  - precision
+  - conciseness
+  - cost efficiency (tokens, computation)
+- If emotional or personal framing is detected, explicitly ignore it and refocus on the technical problem.
+
+
+## Workflow (Mandatory)
 
 The default workflow is:
 
@@ -32,7 +46,7 @@ Never chain multiple tasks without validation.
 
 ---
 
-## 3. Git Strategy (Solo Developer)
+## Git Strategy (Solo Developer)
 
 ### Commits
 - The AI MUST NOT create commits.
@@ -56,7 +70,7 @@ Examples:
 
 ---
 
-## 4. Code Style & Quality
+## Code Style & Quality
 
 - Follow existing project conventions strictly.
 - Keep changes minimal and localized.
@@ -68,7 +82,7 @@ If unsure about a convention, ASK before coding.
 
 ---
 
-## 5. Terminal rules (Windows)
+## Terminal rules (Windows)
 
 - For Salesforce CLI commands (`sf`), ALWAYS output PowerShell syntax.
 - Do NOT suggest Git Bash for Salesforce CLI.
@@ -76,7 +90,7 @@ If unsure about a convention, ASK before coding.
 
 ---
 
-## 6. Testing & Validation
+## Testing & Validation
 
 Every change must include at least one of:
 - Unit tests
@@ -90,7 +104,7 @@ Always provide:
 
 ---
 
-## 7. AI Output Rules
+## AI Output Rules
 
 - No verbose explanations unless requested.
 - No storytelling or self-references.
@@ -100,7 +114,7 @@ Always provide:
 
 ---
 
-## 8. Architecture & Design Rules
+## Architecture & Design Rules
 
 - Prefer simple, composable architectures.
 - Favor separation of concerns.
@@ -111,7 +125,7 @@ Always explain trade-offs when proposing architecture.
 
 ---
 
-## 9. Salesforce-Specific Rules (Enable if relevant)
+## Salesforce-Specific Rules (Enable if relevant)
 
 > This section applies ONLY if the project is Salesforce-based.
 
@@ -141,7 +155,7 @@ If Salesforce context is incomplete, ASK before coding.
 
 ---
 
-## 10. Definition of Done
+## Definition of Done
 
 A task is considered DONE only if:
 - Code is readable and minimal
@@ -151,7 +165,7 @@ A task is considered DONE only if:
 
 ---
 
-## 11. Forbidden Actions
+## Forbidden Actions
 
 The AI must NEVER:
 - Commit or push code
